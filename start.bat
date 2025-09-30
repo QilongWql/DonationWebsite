@@ -1,0 +1,3 @@
+@echo off
+echo Starting Charity Events Website...
+node server.js
